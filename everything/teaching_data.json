@@ -1,0 +1,22 @@
+[
+  {
+    "input": "こんにちは",
+    "output": "Hello! This is how you say 'hello' in Japanese."
+  },
+  {
+    "input": "さようなら",
+    "output": "Goodbye! This is how you say 'goodbye' in Japanese."
+  },
+  {
+    "input": "ありがとう",
+    "output": "Thank you! This means 'thank you' in Japanese."
+  },
+  {
+    "input": "私は日本語が好きです",
+    "output": "I like Japanese. The sentence structure is: Subject + Verb + Object."
+  },
+  {
+    "input": "どういう意味ですか?",
+    "output": "This means 'What does it mean?' in English."
+  }
+]
